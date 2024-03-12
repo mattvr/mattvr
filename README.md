@@ -1,5 +1,3 @@
-*Welcome to my corner of the cosmos! Hope you find something useful here.*
-
 ## Focus
 *Using tech to upgrade us, rather than distract. Currently building:*
 
