@@ -31,4 +31,4 @@
 
 ## Contact
 
-✉️ Reach out via [Twitter](https://mattvr.io/twitter)
+- ✉️ Catch up via [mattvr.io](https://mattvr.io) or [Twitter](https://mattvr.io/twitter)
