@@ -10,7 +10,7 @@
 &nbsp;
 
 ## Open-source
-*Coding for humanity rather than one organization...*
+*Coding for humanity rather than one organization:*
 
 - 💻 [ShellGPT](https://github.com/mattvr/shellgpt): Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc.
 - 🖼️ [vr-art-gallery](https://github.com/mattvr/vr-art-gallery): View realistic Ultra HD artwork in WebXR 
@@ -20,7 +20,7 @@
 &nbsp;
 
 ## Interests
-*Among other things...*
+*Among other things:*
 
 - [Entrepreneurship](https://mattvr.io): Sharing tools to help people and organizations achieve their goals.
 - [Virtual reality](https://mattvr.io/vr): Replacing our current tech with more ergonomic, transcendent, and multiplayer alternatives.
