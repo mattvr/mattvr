@@ -5,13 +5,13 @@
 <td valign="top" align="center">
 
 ## **⚡️ [Nuggetize](https://nuggetize.com)**  
-*Instantly summarize any URL on the internet using AI.* 
+*Instantly summarize any URL on the internet using AI* 
 <br /><br />
 </td>
 <td valign="top" align="center">
 
 ## **🧠 [Optimem](https://optimem.org)**  
-*Learn faster with spaced repetition flashcards.*
+*Learn faster with spaced repetition flashcards*
 <br /><br />
 </td>
 </tr>
@@ -22,6 +22,6 @@
 
 ## About
 
-- *Use tech to upgrade us rather than distract.*
-- *via AI, VR, UX, multiplayer, and meta-cognition.*
+- *Use tech to upgrade us rather than distract*
+- *via AI, VR, UX, multiplayer, and meta-cognition*
 - [mattvr.io](https://mattvr.io) · x/[@matt_fvr](https://mattvr.io/twitter)
