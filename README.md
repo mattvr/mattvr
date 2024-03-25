@@ -18,7 +18,7 @@
 </table>
 </p>
 
-<p align="center"> 💻 <a href="https://github.com/mattvr/shellgpt">ShellGPT</a> | 🖼️ <a href="https://github.com/mattvr/vr-art-gallery">vr-art-gallery</a> | 🔨 <a href="https://github.com/mattvr/dsbuild">dsbuild</a> | ⚙️ <a href="https://github.com/mattvr/dgen">dgen</a> </p>
+<p align="center"> 💻 <a href="https://github.com/mattvr/shellgpt">ShellGPT</a> · 🖼️ <a href="https://github.com/mattvr/vr-art-gallery">vr-art-gallery</a> · 🔨 <a href="https://github.com/mattvr/dsbuild">dsbuild</a> · ⚙️ <a href="https://github.com/mattvr/dgen">dgen</a> </p>
 
 ## About
 
