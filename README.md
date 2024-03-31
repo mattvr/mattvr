@@ -1,6 +1,6 @@
 ## Projects
 <p align="center">
-<table>
+<table align="center">
 <tr>
 <td valign="top" align="center">
 
