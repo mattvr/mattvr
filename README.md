@@ -5,7 +5,7 @@
 <td valign="top" align="center">
 
 ## **⚡️ [Nuggetize](https://nuggetize.com)**  
-*Instantly summarize any URL on the internet using AI* 
+*Browse smarter & save time with an AI sidekick* 
 <br /><br />
 </td>
 <td valign="top" align="center">
