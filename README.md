@@ -34,4 +34,4 @@
 
 - *Use tech to upgrade us rather than distract*
 - *via AI, VR, UX, multiplayer, and meta-cognition*
-- [mattvr.io](https://mattvr.io) · x/[@matt_fvr](https://mattvr.io/twitter) · [discord](https://orgsoft.org/discord)
+- [mattvr.io](https://mattvr.io) · [discord](https://orgsoft.org/discord)
