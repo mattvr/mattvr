@@ -1,24 +1,14 @@
 ## Projects
 <p align="center">
 <table align="center">
-  
 <tr>
-<td colspan="2"  valign="top" align="center">
+<td colspan="1" valign="top" align="center">
   
 ## **⚡️ [Nuggetize](https://nuggetize.com)**  
 *Browse smarter & save time with an AI sidekick* 
 <br /><br />
-
 </td>
-</tr>
-<tr>
-<td valign="top" align="center">
-
-## **○ [circle.fm](https://circle.fm)**  
-*Get more done while having fun* 
-<br /><br />
-</td>
-<td valign="top" align="center">
+<td colspan="1" valign="top" align="center">
 
 ## **🌿 [optimem](https://optimem.org)**  
 *Learn any subject 3x faster*
